@@ -6,7 +6,7 @@ So we're starting here, with 0 skills ~~or 1~~, but with ideas, I guess. We don'
 TBO, we don't care if you've never touched GIT, Unity, Blender, etc. This repository is my second repo ever. So I need just one basic thing from you for now:
 ## HOW to Join
 Our `main` monorepo with all our projects and stuff are private now. So you need to do one simple thing to show us you ready to learn, like we do.
-###Your PR Request.
+### Your PR Request.
 Was is das? If you don't know what *Pull Request* really is -- welcome!
 1. Create `Fork` of this repository 
     - Click `fork` button in da right corner of this page
