@@ -8,22 +8,22 @@ TBO, we don't care if you've never touched GIT, Unity, Blender, etc. This reposi
 Our `main` monorepo with all our projects and stuff **are private now**. So you need to do one simple thing to show us you **ready to learn**, like we do.
 ### Your PR Request.
 Was is das? If you don't know what *Pull Request* really is — **welcome!**
-1.  **Create `Fork` of this repository** -   Click `Fork` button in da right corner of this page
-    -   You will create your own copy of this project, where you can do whatever you want.
-2.  **Come to this `README.md` file and then click `Edit this file` pencil icon**
-3.  **Do some changes**, like:
-    -   Add your favorite idea for VRChat world or other project of yours (in da place below)
-    -   Find any **typo** in this `README.md` and then **fix that**. (Yes, I'm not a native speaker, but these typos were made on purpose)
-    -   Maybe write about you something funny
-4.  **Save da changes (commit)**
-    -   Roll page down
-    -   In the `Commit message` field write any message, f.e: `My join application!` 
-    -   Choose option `Create a new branch for this commit and start a pull request`. It may be a common option.
-    -   Hit the green button `Commit changes`
+1.  Click the pencil icon `Edit this file` in the top right.
+2.  **Create `Fork` (Copy) of this repository.**
+    -   Click the green `Fork` button on the page that pops up.
+    -   Dis will create your personal copy of dis "project," where you can do whatever you want.
+3.  **Make some changes**, for example:
+    -   Add your favorite idea for a VRChat world or any of your projects (somewhere below).
+    -   Find typos/errors in this `README.md` and fix them. (Yes, I'm not a native speaker, but these typos were made on purpose).
+    -   Maybe write something funny about yourself.
+4.  **Save da changes (Commit)**
+    -   Click the green `Commit changes` button in the top right.
+    -   In the `Commit message` field write any message, for example: `My application to join!`
+    -   Click the green button `Propose changes`.
 5.  **Send a Pull Request**
-    -   You will automaticaly redirected to PR create page
-    -   Add in **PR description** your **Discord**, VRChat profile, maybe **Xitter** or any other messaging stuff.
-    -   Click that yummy great green button `Create Pull Request`
+    -   You will automatically be redirected to the PR creation page.
+    -   Add in the PR description your Discord, VRChat profile, maybe Xitter, or any other messaging stuff.
+    -   Click that yummy great green button `Create Pull Request`.
 ____
 ## Shooosh. That was some complicated stuff? If you do all of that, don't you fell like `Wow, this stuff is interesting`?
 Do you like how **beatufily** looks that stuff? Gc bud!
